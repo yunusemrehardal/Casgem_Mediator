@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casgem_Mediator", "Casgem_Mediator\Casgem_Mediator.csproj", "{B0350301-608A-49A2-95B1-7B80D13ABB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0350301-608A-49A2-95B1-7B80D13ABB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0350301-608A-49A2-95B1-7B80D13ABB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0350301-608A-49A2-95B1-7B80D13ABB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0350301-608A-49A2-95B1-7B80D13ABB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A37426-FC89-41F5-8D28-761BEE731A3F}
+	EndGlobalSection
+EndGlobal
